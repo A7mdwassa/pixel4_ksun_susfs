@@ -1,4 +1,5 @@
 out/
+prebuilts-master/clang/host/linux-x86/
 *.patch
 *.orig
 *.rej
